@@ -1,0 +1,20 @@
+<a href="/">
+    <h1>LOGO</h1>
+    
+</a>
+
+
+
+
+<form class='searchBar' method="GET" action="{% url 'home' %}">
+    <input type='text' name='q' placeholder='Search for a program or forum...' />
+</form>
+<div class='userNavIndicator'>
+    {% if request.user.is_authenticated %}
+    <p>Hello {{request.user}}</p>
+    <a href="{% url 'logout' %}">Logout</a>
+    {% else %}
+    <a href="{% url 'login' %}">Login</a>
+    {% endif %}
+</div>
+<hr>
