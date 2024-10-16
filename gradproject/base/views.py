@@ -65,10 +65,10 @@ def home(request):
     )
     
     topics = Topic.objects.all()
-    forum_count = forums.count()
+    programs = Program.objects.all()
     activity_messages = Message.objects.all().filter(Q(forum__topic__name__icontains=q))
     
-    context = {'forums':forums, 'topics':topics, 'forum_count':forum_count, 'activity_messages':activity_messages}
+    context = {'forums':forums, 'topics':topics, 'programs':programs, 'activity_messages':activity_messages}
     return render(request, 'base/home.html', context)
 
 def forum(request, pk):
@@ -98,11 +98,16 @@ def userProfile(request, pk):
 
 def programPage(request, pk):
     program = Program.objects.get(id=pk)
-    program_title = program.title.get()
-    program_body = program.body.get()
+    program_title = program.name
+    program_body = program.body
+    #program_topic = program.topic
+    #rel_forum = Forum.objects.filter(
+    #    Q(topic__name__icontains=program_topic.name)
+    #).first()
+    
     
     context = {'program':program, 'program_title':program_title, 'program_body':program_body}
-    return render(request, '/base/program.html', context)
+    return render(request, 'base/program.html', context)
 
 @login_required(login_url='login')
 def createForum(request):

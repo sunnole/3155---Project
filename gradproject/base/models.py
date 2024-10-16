@@ -38,10 +38,12 @@ class Message(models.Model):
         return self.body[0:50]
     
 class Program(models.Model):
-    title = models.TextField()
+    name = models.CharField(max_length=200)
     body = models.TextField()
+    topic = models.ForeignKey(Topic, on_delete=models.SET_NULL, null=True)
     updated = models.DateTimeField(auto_now=True)
     created = models.DateTimeField(auto_now_add=True)
+    #forum = models.ForeignKey(Forum, on_delete=models.SET_NULL, null=True)
     
     class Meta:
         ordering = ['-updated', '-created']

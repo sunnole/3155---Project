@@ -1,0 +1,29 @@
+{% extends 'main.html' %}
+
+{% block content %}
+
+<style>
+    .program-container{
+        display: grid;
+        grid-template-columns: 4fr 1 fr;
+    }
+</style>
+
+<div class='program-container'>
+    <div class='infoSection'>
+        <h1>{{program.name}}</h1>
+
+        <p>{{program.body}}</p>
+    </div>
+    <div class='relSection'>
+        <h4>Related Items</h4>
+        <a href="{% url 'home' %}?q={{program.topic.name}}">{{program.topic.name}}</a>
+        {% if program.rel_forum %}
+            <a href="{% url 'forum' program.rel_forum.id%}">{{program.rel_forum.name}}</a>
+        {% else %}
+            <p>no related forum exists</p>
+        {% endif %}
+    </div>
+</div>
+
+{% endblock content %}
