@@ -189,32 +189,41 @@ def scrapePage(request):
         return render(request, "base/scraper_form.html", context)
 
 # Send private message
-@login_required(login_url='login')
-def send_pm(request, recipient_id):
-    recipient = User.objects.get(id=recipient_id)
-
-    if request.method == 'POST':
-        body = request.POST.get('body')
-        Chat.objects.create(sender=request.user, recipient=recipient, body=body)
-        return redirect('user-profile', pk=recipient.id)
-
-    context = {'recipient':recipient}
-    return render(request, 'base/send_pm.html', context)
-
-# User chat history
-@login_required(login_url='login')
-def user_chats(request):
-    received_messages = Chat.objects.filter(recipient=request.user)
-    sent_messages = Chat.objects.filter(sender=request.user)
-
-    conversations = []
-    for message in received_messages:
-        if message.sender not in [conv['user'] for conv in conversations]:
-            conversations.append({'user': message.sender, 'messages': received_messages.filter(sender=message.sender)})
-
-    for message in sent_messages:
-        if message.recipient not in [conv['user'] for conv in conversations]:
-            conversations.append({'user': message.recipient, 'messages': sent_messages.filter(recipient=message.recipient)})
-
-    context = {'conversations':conversations}
-    return render(request, 'base/user_chats.html', context)
+# @login_required(login_url='login')
+# def send_pm(request, recipient_id):
+#     recipient = User.objects.get(id=recipient_id)
+#
+#     if request.method == 'POST':
+#         body = request.POST.get('body')
+#         Chat.objects.create(sender=request.user, recipient=recipient, body=body)
+#         return redirect('user-profile', pk=recipient.id)
+#
+#     context = {'recipient':recipient}
+#     return render(request, 'base/send_pm.html', context)
+#
+# # User chat history
+# @login_required(login_url='login')
+# def user_chats(request):
+#     received_messages = Chat.objects.filter(recipient=request.user)
+#     sent_messages = Chat.objects.filter(sender=request.user)
+#
+#     conversations = []
+#
+#     for message in sent_messages:
+#         other_user = message.recipient
+#         if not any(conv['user'] == other_user for conv in conversations):
+#             # Get all messages with this user
+#             messages_with_user = sent_messages.filter(recipient=other_user) | received_messages.filter(sender=other_user)
+#             messages_with_user = messages_with_user.order_by('created_at')
+#             conversations.append({'user': other_user, 'messages': messages_with_user})
+#
+#     for message in received_messages:
+#         other_user = message.sender
+#         if not any(conv['user'] == other_user for conv in conversations):
+#             messages_with_user = sent_messages.filter(recipient=other_user) | received_messages.filter(
+#                 sender=other_user)
+#             messages_with_user = messages_with_user.order_by('created_at')
+#             conversations.append({'user': other_user, 'messages': messages_with_user})
+#
+#     context = {'conversations':conversations}
+#     return render(request, 'base/user_chats.html', context)

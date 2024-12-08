@@ -17,14 +17,14 @@
     </div>
 </div>
 <div>
-    {% if request.user.is_authenticated %}
-        <h2>Private Chats</h2>
-        <ul>
-            {% for conversation in user_chats %}
-                <li><a href="{% url 'send-pm' conversation.user.id %}">Chat with {{ conversation.user.username }}</a></li>
-            {% endfor %}
-        </ul>
-        <a href="{% url 'send-pm' user.id %}">Send Message</a>
-    {% endif %}
+{#    {% if request.user.is_authenticated %}#}
+{#        <h2>Private Chats</h2>#}
+{#        <ul>#}
+{#            {% for conversation in user_chats %}#}
+{#                <li><a href="{% url 'send-pm' conversation.user.id %}">Chat with {{ conversation.user.username }}</a></li>#}
+{#            {% endfor %}#}
+{#        </ul>#}
+{#        <a href="{% url 'send-pm' user.id %}">Send Message</a>#}
+{#    {% endif %}#}
 </div>
 {% endblock content %}

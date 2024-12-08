@@ -10,6 +10,13 @@
                 <p><strong>{{ message.sender.username }}:</strong> {{ message.body }} <small>({{ message.created_at }})</small></p>
             {% endfor %}
         </div>
+
+        <!-- Form to send a new message -->
+        <form method="POST" action="{% url 'send-pm' recipient_id=conversation.user.id %}">
+            {% csrf_token %}
+            <textarea name="body" placeholder="Your message..." required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
         <hr>
     {% endfor %}
 {% endblock %}

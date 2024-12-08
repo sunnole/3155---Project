@@ -13,15 +13,6 @@ HEADERS = {
     "User-Agent": ua.random
 }
 
-# async def fetch_page_async(url):
-#         async with httpx.AsyncClient() as client:
-#             response = await client.get(url)
-#             response.raise_for_status() # Raise an error for non-200 status codes
-#             return response.text
-#         # async with aiohttp.ClientSession() as session:
-#         #     async with session.get(url, headers=HEADERS, timeout=10) as response:
-#         #         return await response.text()
-
 # Sync fetch page
 def fetch_page(url):
     with httpx.Client() as client:
