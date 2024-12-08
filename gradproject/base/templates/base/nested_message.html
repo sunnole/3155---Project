@@ -1,10 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+<div class="nested-message-container">
+    <small>@{{ message.user }} {{ message.created|timesince }} ago</small>
+    <p>{{ message.body }}</p>
 
-</body>
-</html>
+    {% if message.replies.exist %}
+        <div class="replies">
+            {% for reply in message.replies.all %}
+                {% include 'base/nested_message.html' with message=reply %}
+            {% endfor %}
+        </div>
+    {% endif %}
+
+    {% if request.user.is_authenticated %}
+        <form method='POST' action=''>
+            {% csrf_token %}
+            <input type='text' name='body' placeholder='Write your reply here...' />
+            <input type='hidden' name='parent_message_id' value='{{ message.id }}' />
+            <button type="submit">Reply</button>
+        </form>
+    {% endif %}
+    <hr>
+</div>

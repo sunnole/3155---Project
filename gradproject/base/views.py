@@ -1,5 +1,6 @@
-from django.shortcuts import render, redirect
-from django.http import HttpResponse
+#import os
+import re
+from django.shortcuts import render, redirect, get_object_or_404
 from django.contrib import messages
 from django.contrib.auth.decorators import login_required
 from django.db.models import Q
@@ -8,6 +9,17 @@ from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.forms import UserCreationForm
 from .models import Forum, Topic, Message, Program
 from .forms import ForumForm
+from .webScraper import parse_page, fetch_page, extract_name
+from django.contrib.admin.views.decorators import staff_member_required
+# import httpx
+# from asgiref.sync import sync_to_async
+# from django.http import JsonResponse
+# from django.views.decorators.csrf import csrf_exempt
+# from django.utils.decorators import method_decorator
+# from bs4 import BeautifulSoup
+# import requests
+# from numpy.distutils.lib2def import output_def
+# from django.http import HttpResponse
 
 # Create your views here.
 
@@ -71,16 +83,20 @@ def home(request):
     context = {'forums':forums, 'topics':topics, 'programs':programs, 'activity_messages':activity_messages}
     return render(request, 'base/home.html', context)
 
+# Render of Forum and Reply system
 def forum(request, pk):
     forum = Forum.objects.get(id=pk)
-    forum_messages = forum.message_set.all()
+    forum_messages = forum.message_set.filter(parent_message__isnull=True)
     participants = forum.participants.all()
     
     if request.method == 'POST':
+        parent_message_id = request.POST.get('parent_message_id')
+        parent_message = Message.objects.get(id=parent_message_id) if parent_message_id else None
         message = Message.objects.create(
             user = request.user,
             forum = forum,
-            body = request.POST.get('body')
+            body = request.POST.get('body'),
+            parent_message = parent_message
         )
         forum.participants.add(request.user)
         return redirect('forum', pk=forum.id)
@@ -97,17 +113,8 @@ def userProfile(request, pk):
     return render(request, 'base/profile.html', context)
 
 def programPage(request, pk):
-    program = Program.objects.get(id=pk)
-    program_title = program.name
-    program_body = program.body
-    #program_topic = program.topic
-    #rel_forum = Forum.objects.filter(
-    #    Q(topic__name__icontains=program_topic.name)
-    #).first()
-    
-    
-    context = {'program':program, 'program_title':program_title, 'program_body':program_body}
-    return render(request, 'base/program.html', context)
+    program = get_object_or_404(Program, pk=pk)
+    return render(request, 'base/program.html', {'program': program})
 
 @login_required(login_url='login')
 def createForum(request):
@@ -123,3 +130,60 @@ def createForum(request):
     
     context = {'form':form}
     return render(request, 'base/forum_form.html', context)
+
+# Web Scraper
+@staff_member_required
+def scrapePage(request):
+    context = {"message": None, "program": None}
+
+    if request.method == 'POST':
+        url = request.POST.get('url')
+
+        # Validate URL (For UNCC webpages only)
+        if not url or not re.match(r'^https://[a-zA-Z-]+\.charlotte\.edu', url):
+            context["message"] = "Invalid URL. Please enter valid UNCC URL."
+            return render(request, "base/scraper_form.html", context)
+
+        try:
+            # Fetch page
+            html_content = fetch_page(url)
+
+            # Extract name and parse
+            program_name = extract_name(html_content)
+            parsed_program = parse_page(html_content)
+
+            # Convert parsed data to database suitable format
+            body_content = ""
+            for section in parsed_program:
+                tag = section.get("tag", "")
+                content = section.get("content", "")
+
+                if tag == 'ul' or tag == 'ol':  # If it's a list
+                    body_content += f"<{tag}>"
+                    for list_item in content.splitlines():  # Split by new lines for each list item
+                        body_content += f"<li>{list_item}</li>"  # Convert list item to HTML list item
+                    body_content += f"</{tag}>"
+                elif tag == 'p':  # If it's a paragraph
+                    body_content += f"<p>{content}</p>"  # Wrap paragraph content in <p> tags
+                elif tag in ['h1', 'h2', 'h3', 'h4']:  # For headers
+                    body_content += f"<{tag}>{content}</{tag}>"  # Add HTML headers like <h2>, <h3>, etc.
+
+            # Save converted data to database
+            topic, _ = Topic.objects.get_or_create(name="Graduate Programs")
+            program, created = Program.objects.update_or_create(name=program_name, topic=topic, defaults={"body": body_content})
+
+            # Messages
+            if created:
+                context["message"] = f"Program '{program_name}' has been created."
+            else:
+                context["message"] = f"Program '{program_name}' has been updated."
+            context["program"] = program
+
+        except Exception as e:
+            # return JsonResponse({"success": False, "message": f"An error occurred: {str(e)}"}, status=500)
+            context["message"] = f"An error has occurred during program creation: {e}"
+
+        return render(request, "base/scraper_form.html", context)
+
+    elif request.method == 'GET':
+        return render(request, "base/scraper_form.html", context)

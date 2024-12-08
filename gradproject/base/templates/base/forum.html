@@ -22,28 +22,37 @@
             <hr>
 
             {% for message in forum_messages %}
-
+                {% include 'base/nested_message.html' with message=message %}
                 <div>
-                    <!--{% if request.user == message.user %}
-                        
-                    {% endif %}-->
                     <small>@{{message.user}} {{message.created|timesince}} ago</small>
                     <p>{{message.body}}</p>
+        
+                    {% if message.replies.all %}
+                        <div class="comment">
+                            
+                            {% for reply in message.replies.all %}
+                                <div>
+                                    <small>@{{reply.user}} {{reply.created|timesince}} ago</small>
+                                    <p>{{reply.body}}</p>
+                                </div>
+                            {% endfor %}
+                        </div>
+                    {% endif %}
+        
+                    {% if request.user.is_authenticated %}
+                        <form method='POST' action=''>
+                            {% csrf_token %}
+                            <input type='text' name='body' placeholder='Write your reply here...' />
+                            <input type='hidden' name='parent_message_id' value='{{message.id}}' />
+                            <button type="submit">Reply</button>
+                        </form>
+                    {% endif %}
                     <hr>
                 </div>
-
             {% endfor %}
         </div>
-
-        {% if request.user.is_authenticated %}
-        <div class ='comment-form'>
-            <form method='POST' action=''>
-                {% csrf_token %}
-                <input type='text' name='body' placeholder='Write your messages here...' />
-            </form>
-        </div>
-        {% endif %}
     </div>
+</div>
 
     <div>
         <h3>Participants</h3>

@@ -12,4 +12,6 @@ urlpatterns = [
     path('program/<str:pk>/', views.programPage, name="program"),
     
     path('create-forum/', views.createForum, name="create-forum"),
+
+    path('scrape-page/', views.scrapePage, name="scrape-page"),
     ]

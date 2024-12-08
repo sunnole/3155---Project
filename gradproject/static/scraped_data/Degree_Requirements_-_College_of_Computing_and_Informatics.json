@@ -1,0 +1,1120 @@
+[
+    {
+        "tag":"ul",
+        "content":"Alumni & Friends\nCommunity\nCurrent Students\nFaculty & Staff\nParents & Family\nProspective Students",
+        "links":[
+            "https:\/\/www.charlotte.edu\/gateway\/alumni-friends",
+            "https:\/\/www.charlotte.edu\/gateway\/community",
+            "https:\/\/www.charlotte.edu\/gateway\/current-students",
+            "https:\/\/www.charlotte.edu\/gateway\/faculty-staff",
+            "https:\/\/www.charlotte.edu\/gateway\/parents-family",
+            "https:\/\/www.charlotte.edu\/gateway\/prospective-students"
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"Go to Charlotte.edu",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"h2",
+        "content":"Prospective Students",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"About UNC Charlotte\n\n\nCampus Life\n\n\nAdmissions\n\n\nGraduate Admissions",
+        "links":[
+            "https:\/\/www.charlotte.edu\/landing\/about-us",
+            "https:\/\/www.charlotte.edu\/landing\/campus-life",
+            "https:\/\/admissions.charlotte.edu\/",
+            "https:\/\/gradadmissions.charlotte.edu\/"
+        ]
+    },
+    {
+        "tag":"h2",
+        "content":"Faculty and Staff",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Human Resources\n\n\nAuxiliary Services\n\n\nInside UNC Charlotte\n\n\nAcademic Affairs",
+        "links":[
+            "https:\/\/hr.charlotte.edu\/",
+            "https:\/\/aux.charlotte.edu\/",
+            "https:\/\/inside.charlotte.edu\/",
+            "https:\/\/provost.charlotte.edu\/"
+        ]
+    },
+    {
+        "tag":"h2",
+        "content":"Current Students",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Athletics\n\n\nFinancial Aid\n\n\nAdvising\n\n\nStudent Health",
+        "links":[
+            "http:\/\/www.charlotte49ers.com\/",
+            "https:\/\/finaid.charlotte.edu\/",
+            "https:\/\/advising.charlotte.edu\/",
+            "https:\/\/studenthealth.charlotte.edu\/"
+        ]
+    },
+    {
+        "tag":"h2",
+        "content":"Alumni and Friends",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Alumni Association\n\n\nAdvancement\n\n\nFoundation\n\n\nMake a Gift",
+        "links":[
+            "https:\/\/alumni.charlotte.edu\/",
+            "https:\/\/advancement.charlotte.edu\/",
+            "https:\/\/foundation.charlotte.edu\/",
+            "https:\/\/giving.charlotte.edu\/"
+        ]
+    },
+    {
+        "tag":"h2",
+        "content":"Main Menu",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"About Us\n\nTechnology Resources\nStudent Experience\nJob Opportunities\nVision and Mission\nStrategic Plan\nPolicies and Procedures\nCCI Alumni Network\nGiving\nProgram Assessment\n\n\nDirectory\n\nOffice of the Dean\nDean\u2019s Advisory Board\nFaculty\nStaff\nPost Docs\nPh.D. Students\nContact Us\n\n\nEvents\nDepartments\n\nDepartment of Bioinformatics and Genomics\nDepartment of Computer Science\nDepartment of Software information Systems\nNC Research Campus (NCRC)\n\n\nAcademic Programs\n\nUndergraduate Studies\nGraduate Programs\nDoctoral Degrees\nGraduate Certificates\nCCI Honors Program\n\n\nCCI Research Areas\n\nNEW Funding Opportunities\nFaculty Areas of Expertise\nLabs\nCCI Innovation Fund\nCCI Research Seminars\nUndergraduate Research\nResearch FAQ\n\n\nStudent Life\n\nAdvising\nCCI Mentoring\nCCI Learning Community\nStudent Resources\nCCI Undergraduate Tutoring Center\nStudent Clubs & Organizations\nCCI Dean\u2019s Ambassador Program\n\n\nBusiness Partners\n\nBenefits\nStudent Professional Development Events and Opportunities\nLowe\u2019s Technology Days",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/about-us\/cci-brochure-2018\/cci-brochure-2019\/",
+            "https:\/\/cci.charlotte.edu\/cci-fast-facts\/oneit-help-center-in-woodward\/",
+            "https:\/\/cci.charlotte.edu\/cci-fast-facts\/diversity\/",
+            "https:\/\/cci.charlotte.edu\/applications-are-being-accepted-for-multiple-faculty-positions\/",
+            "https:\/\/cci.charlotte.edu\/about-us\/mission-and-values\/",
+            "https:\/\/cci.charlotte.edu\/about-us\/2022-strategic-plan\/",
+            "https:\/\/cci.charlotte.edu\/about-us\/policies-and-procedures\/",
+            "https:\/\/cci.charlotte.edu\/about-us\/cci-alumni-network\/",
+            "https:\/\/cci.charlotte.edu\/cci-fast-facts\/giving\/",
+            "https:\/\/cci.charlotte.edu\/about-us\/program-assessment\/",
+            "https:\/\/cci.charlotte.edu\/about-us\/people\/",
+            "https:\/\/cci.charlotte.edu\/about-us\/people\/",
+            "https:\/\/cci.charlotte.edu\/directory\/deans-advisory-board\/",
+            "https:\/\/cci.charlotte.edu\/directory\/faculty\/",
+            "https:\/\/cci.charlotte.edu\/directory\/13\/",
+            "https:\/\/cci.charlotte.edu\/directory\/15\/",
+            "https:\/\/cci.charlotte.edu\/directory\/ph-d-students\/",
+            "https:\/\/cci.charlotte.edu\/directory\/contact\/",
+            "https:\/\/cci.charlotte.edu\/events\/",
+            "https:\/\/cci.charlotte.edu\/departments\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-bioinformatics-and-genomics\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/",
+            "https:\/\/cci.charlotte.edu\/departments\/nc-research-campus-ncrc\/",
+            "https:\/\/cci.charlotte.edu\/academics\/",
+            "https:\/\/cci.charlotte.edu\/academics\/undergraduate-studies\/",
+            "https:\/\/cci.charlotte.edu\/graduate-programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/doctoral-degrees\/",
+            "https:\/\/cci.charlotte.edu\/academics\/graduate-certificates\/",
+            "https:\/\/cci.charlotte.edu\/academics\/honors-program\/",
+            "https:\/\/cci.charlotte.edu\/cci-research-areas\/",
+            "https:\/\/cci.charlotte.edu\/research\/new-funding-opportunities\/",
+            "https:\/\/cci.charlotte.edu\/research\/faculty-areas-expertise\/",
+            "https:\/\/cci.charlotte.edu\/cci-research-areas\/labs\/",
+            "https:\/\/cci.charlotte.edu\/research\/cci-innovation-fund\/",
+            "https:\/\/cci.charlotte.edu\/research\/research-seminar\/",
+            "https:\/\/cci.charlotte.edu\/research\/undergraduate-research-opportunities\/",
+            "https:\/\/cci.charlotte.edu\/research\/research-faq\/",
+            "https:\/\/cci.charlotte.edu\/student-life\/unc-charlotte-student-life\/",
+            "https:\/\/cci.charlotte.edu\/advising\/",
+            "https:\/\/cci.charlotte.edu\/student-life\/cci-mentoring\/",
+            "https:\/\/cci.charlotte.edu\/unc-charlotte-student-life\/learning-community\/",
+            "https:\/\/cci.charlotte.edu\/node\/6871\/",
+            "https:\/\/cci.charlotte.edu\/student-life\/tutoring\/",
+            "https:\/\/cci.charlotte.edu\/unc-charlotte-student-life\/students-clubs-organizations\/",
+            "https:\/\/cci.charlotte.edu\/student-life\/cci-deans-ambassador-program\/",
+            "https:\/\/cci.charlotte.edu\/partners\/",
+            "https:\/\/cci.charlotte.edu\/partners\/business-partners\/benefits\/",
+            "https:\/\/cci.charlotte.edu\/business-partners\/business-partners-newsletter\/",
+            "https:\/\/cci.charlotte.edu\/partners\/lowes-technology-days\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Technology Resources\nStudent Experience\nJob Opportunities\nVision and Mission\nStrategic Plan\nPolicies and Procedures\nCCI Alumni Network\nGiving\nProgram Assessment",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/cci-fast-facts\/oneit-help-center-in-woodward\/",
+            "https:\/\/cci.charlotte.edu\/cci-fast-facts\/diversity\/",
+            "https:\/\/cci.charlotte.edu\/applications-are-being-accepted-for-multiple-faculty-positions\/",
+            "https:\/\/cci.charlotte.edu\/about-us\/mission-and-values\/",
+            "https:\/\/cci.charlotte.edu\/about-us\/2022-strategic-plan\/",
+            "https:\/\/cci.charlotte.edu\/about-us\/policies-and-procedures\/",
+            "https:\/\/cci.charlotte.edu\/about-us\/cci-alumni-network\/",
+            "https:\/\/cci.charlotte.edu\/cci-fast-facts\/giving\/",
+            "https:\/\/cci.charlotte.edu\/about-us\/program-assessment\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Office of the Dean\nDean\u2019s Advisory Board\nFaculty\nStaff\nPost Docs\nPh.D. Students\nContact Us",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/about-us\/people\/",
+            "https:\/\/cci.charlotte.edu\/directory\/deans-advisory-board\/",
+            "https:\/\/cci.charlotte.edu\/directory\/faculty\/",
+            "https:\/\/cci.charlotte.edu\/directory\/13\/",
+            "https:\/\/cci.charlotte.edu\/directory\/15\/",
+            "https:\/\/cci.charlotte.edu\/directory\/ph-d-students\/",
+            "https:\/\/cci.charlotte.edu\/directory\/contact\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Department of Bioinformatics and Genomics\nDepartment of Computer Science\nDepartment of Software information Systems\nNC Research Campus (NCRC)",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-bioinformatics-and-genomics\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/",
+            "https:\/\/cci.charlotte.edu\/departments\/nc-research-campus-ncrc\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Undergraduate Studies\nGraduate Programs\nDoctoral Degrees\nGraduate Certificates\nCCI Honors Program",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/academics\/undergraduate-studies\/",
+            "https:\/\/cci.charlotte.edu\/graduate-programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/doctoral-degrees\/",
+            "https:\/\/cci.charlotte.edu\/academics\/graduate-certificates\/",
+            "https:\/\/cci.charlotte.edu\/academics\/honors-program\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"NEW Funding Opportunities\nFaculty Areas of Expertise\nLabs\nCCI Innovation Fund\nCCI Research Seminars\nUndergraduate Research\nResearch FAQ",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/research\/new-funding-opportunities\/",
+            "https:\/\/cci.charlotte.edu\/research\/faculty-areas-expertise\/",
+            "https:\/\/cci.charlotte.edu\/cci-research-areas\/labs\/",
+            "https:\/\/cci.charlotte.edu\/research\/cci-innovation-fund\/",
+            "https:\/\/cci.charlotte.edu\/research\/research-seminar\/",
+            "https:\/\/cci.charlotte.edu\/research\/undergraduate-research-opportunities\/",
+            "https:\/\/cci.charlotte.edu\/research\/research-faq\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Advising\nCCI Mentoring\nCCI Learning Community\nStudent Resources\nCCI Undergraduate Tutoring Center\nStudent Clubs & Organizations\nCCI Dean\u2019s Ambassador Program",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/advising\/",
+            "https:\/\/cci.charlotte.edu\/student-life\/cci-mentoring\/",
+            "https:\/\/cci.charlotte.edu\/unc-charlotte-student-life\/learning-community\/",
+            "https:\/\/cci.charlotte.edu\/node\/6871\/",
+            "https:\/\/cci.charlotte.edu\/student-life\/tutoring\/",
+            "https:\/\/cci.charlotte.edu\/unc-charlotte-student-life\/students-clubs-organizations\/",
+            "https:\/\/cci.charlotte.edu\/student-life\/cci-deans-ambassador-program\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Benefits\nStudent Professional Development Events and Opportunities\nLowe\u2019s Technology Days",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/partners\/business-partners\/benefits\/",
+            "https:\/\/cci.charlotte.edu\/business-partners\/business-partners-newsletter\/",
+            "https:\/\/cci.charlotte.edu\/partners\/lowes-technology-days\/"
+        ]
+    },
+    {
+        "tag":"h2",
+        "content":"Departments",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/departments\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Department of Bioinformatics and Genomics\n\nBIG Faculty\nBIG Staff\nAbout Bioinformatics & Genomics\n\nDissertation Archive\nFacilities\n\nCore Laboratories\nResearch Computing\n\n\nDirections\nCommunity Partners\n\n\nBIG News\n\nRecognitions\n\n\nLarry Mays Seminar Series in Bioinformatics\nBioinformatics Research\n\nBig Data in Bioinformatics\nResearch Labs\nComputational Biophysics\nComputational Mass Spectrometry\nGenome-Wide Association Analysis\nHigh-Throughput Studies\nMetagenomics\nPlant Genomics\nStructural Bioinformatics\nSystems Biology\n\n\nBiG Calendar\nAcademics\n\nComputer Science Bioinformatics Concentration, B.A.\nComputer Science Bioinformatics Concentration, B.S.\nUndergraduate Minor in Bioinformatics and Genomics Program Requirements\nEarly-Entry Bioinformatics M.S. and Graduate Certificate\nBioinformatics Technology Certificate\nMaster\u2019s in Bioinformatics\n\nAdmissions\nProgram Requirements\nM.S. in Bioinformatics Forms\n\n\nBioinformatics and Computational Biology (BCB) Ph.D. Program\n\nBCB Ph.D. Admissions\nBCB Ph.D. Program Requirements\nPh.D. Forms\nMolecular Biophysics Concentration\n\n\nCourses\n\nUndergraduate Courses in Bioinformatics\nGraduate Courses\n\n\nFrequently Asked Questions\nUndergraduate Research Initiative\n\n\n\n\nDepartment of Computer Science\n\nAbout Computer Science\n\nAdministration\nDirections\nContact Information\nCS Faculty\nCS Staff\n\n\nCS Academics\n\nAcademic Programs\nUndergraduate Programs\n\nComputer Science: B.S.\/B.A.\nCourses\n\n\nCS Certificate Programs\n\nGraduate Certificate in Applied A.I.\nUNDERGRADUATE CERTIFICATE IN GAME DESIGN\n\n\nEarly Entry (4 + 1) Program\n\nDeadlines for Early Entry (4 + 1) Program\n\n\nMaster\u2019s Programs\n\nM.S. Requirements\nM.S. Admissions\nM.S. Funding and Assistantships\nEvening Computer Science MS Degree Program\nM.S. Courses\nM.S. Course Rotation\n\n\nPh.D. in Computing and Information Systems, CS Track\n\nPh.D. Admissions\nDegree Requirements\nCourses\n\n\nOther Programs\nCS Student Forms and Resources\n\n\nCS Research\nCS News\nCS Department Intranet\n\n\nDepartment of Software information Systems\n\nAbout Software & Information Systems\n\nAdministration\nDirections\nSIS Faculty\nSIS Staff\n\n\nSIS Academics\n\nUndergraduate Programs\n\nCourse Listings\nPrograms\nSoftware and Information Systems: B.S.\/B.A.\n\n\nSIS Master\u2019s Programs\n\nAbout SIS Master\u2019s Degrees\nAdmissions\nDegree Requirements\nEarly Entry (4+1) Program\nLabs & Research\nFrequently Asked Questions\nSIS Contact\n\n\nSIS Graduate Certificates\n\nSoftware Development Certificate\nFrequently Asked Questions \u2013 SIS Graduate Certificates\n\n\nFundamentals of Programming Courses\nPh.D. in Computing and Information Systems, SIS Track\n\nPh.D. Computing and Information Systems: Software and Information Systems Track\nPh.D. Courses\nPh.D. Admissions\nPh.D. Resources\n\n\nCybersecurity Program\nScholarships\n\nCyberCorps: Scholarship for Service (SFS)\nGraduate Assistant Support Plan (GASP)\nThe STARS Computing Scholars\n\n\n\n\nSIS News\nSIS Research\n\nCenters and Institutes\nComplex Adaptive Systems\nCyber Defense and Network Assurability Research Center\n\n\n\n\nSchool of Data Science\nNC Research Campus (NCRC)\n\nNCRC Directory",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-bioinformatics-and-genomics\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-bioinformatics-and-genomics\/big-faculty\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-bioinformatics-and-genomics\/big-staff\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/dissertation-archive\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/facilities\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/facilities\/core-laboratories\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/facilities\/research-computing\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/directions\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/community-partners\/",
+            "https:\/\/cci.charlotte.edu\/big-news\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/bioinformatics-news\/recognitions\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/seminars\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/big-data-bioinformatics\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/research-labs\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/computational-biophysics\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/computational-mass-spectrometry\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/genome-wide-association-analysis\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/high-throughput-studies\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/metagenomics\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/plant-genomics\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/structural-bioinformatics\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/systems-biology\/",
+            "https:\/\/cci.charlotte.edu\/big-calendar\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/computer-science-bioinformatics-concentration-ba\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/computer-science-bioinformatics-concentration-bs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/undergraduate-minor-bioinformatics-and-genomics-program-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/early-entry-bioinformatics-ms-and-graduate-certificates\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-graduate-certificates\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-ms-program\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-ms-program\/admissions\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-ms-program\/program-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-ms-program\/ms-bioinformatics-forms\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bcb-phd-program\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bcb-phd-program\/bcb-phd-admissions\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bcb-phd-program\/bcb-phd-program-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bcb-phd-program\/phd-forms\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-bioinformatics-and-genomics\/academics-2\/molecular-biophysics-concentration\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/courses\/undergraduate-courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/courses\/graduate-courses\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-bioinformatics-and-genomics\/academics-2\/courses\/frequently-asked-questions\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/undergraduate-research-initiative\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science\/about-us\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science\/about-us\/administration\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science\/about-us\/directions\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/about-computer-science\/contact-information\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/about-computer-science\/cs-faculty\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/about-computer-science\/cs-staff\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/",
+            "https:\/\/cci.charlotte.edu\/academics\/academic-programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/undergraduate-programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/undergraduate-programs\/courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/undergraduate-programs\/courses-0\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science-cs\/cs-academics\/cs-certificate-programs\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/academics\/cs-certificate-programs\/graduate-certificate-in-applied-a-i\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/academics\/cs-certificate-programs\/undergraduate-certificate-in-game-design\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/5-year-babs-ms-degree-program\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/early-entry-4-1-program\/deadlines\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/ms-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/ms-admissions\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science-cs\/cs-academics\/masters-programs\/ms-funding\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/evening-computer-science-ms-degree-program\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/ms-courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/ms-course-rotation\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/phd-program-cs-track\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/academics\/ph-d-in-computing-and-information-systems-cs-track\/admissions-2\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science-cs\/cs-academics\/phd-program-cs-track\/degree-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/phd-program-cs-track\/courses\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/academics\/other-programs\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science-cs\/cs-academics\/cs-student-forms-and-links\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science-cs\/cs-research\/",
+            "https:\/\/cci.charlotte.edu\/cs-news\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/cs-department-intranet\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/about-software-information-systems\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/about-sis\/administration\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/about-sis\/directions\/",
+            "https:\/\/cci.charlotte.edu\/sis-faculty\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/about-software-information-systems\/sis-staff\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/undergraduate-programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/undergraduate-programs\/course-listings\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/undergraduate-programs\/programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/undergraduate-programs\/software-and-information-systems\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/academics-3\/sis-masters-programs\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/sis-academics\/masters-programs\/about-sis-masters\/",
+            "https:\/\/cci.charlotte.edu\/sis-grad-admissions\/",
+            "https:\/\/cci.charlotte.edu\/sis-grad-requirements\/",
+            "https:\/\/cci.charlotte.edu\/sis-early-entry\/",
+            "https:\/\/cci.charlotte.edu\/sis-labs-and-research\/",
+            "https:\/\/cci.charlotte.edu\/sis-grad-faq\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/academics-3\/sis-masters-programs\/sis-contact\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/academics-3\/sis-graduate-certificates\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/sis-academics\/graduate-certificates\/software\/",
+            "https:\/\/cci.charlotte.edu\/sis-certificates-faq\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/sis-academics\/graduate-certificates\/fundamentals\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/degree-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/phd-courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/phd-admissions\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/phd-resources\/",
+            "https:\/\/cci.charlotte.edu\/cybersecurity\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/scholarships\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/scholarships\/cybercorps-scholarship-service-sfs\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/scholarships\/graduate-assistant-support-plan-gasp\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/scholarships\/stars-computing-scholars\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/sis-news\/",
+            "https:\/\/cci.charlotte.edu\/research\/sis-research\/",
+            "https:\/\/cci.charlotte.edu\/research\/sis-research\/centers-and-institutes\/",
+            "https:\/\/cci.charlotte.edu\/research\/sis-research\/complex-adaptive-systems\/",
+            "https:\/\/cci.charlotte.edu\/research\/sis-research\/cyber-defense-and-network-assurability-research-cente\/",
+            "https:\/\/cci.charlotte.edu\/departments\/school-of-data-science\/",
+            "https:\/\/cci.charlotte.edu\/departments\/nc-research-campus-ncrc\/",
+            "https:\/\/cci.charlotte.edu\/nc-research-campus-ncrc\/ncrc-directory\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"BIG Faculty\nBIG Staff\nAbout Bioinformatics & Genomics\n\nDissertation Archive\nFacilities\n\nCore Laboratories\nResearch Computing\n\n\nDirections\nCommunity Partners\n\n\nBIG News\n\nRecognitions\n\n\nLarry Mays Seminar Series in Bioinformatics\nBioinformatics Research\n\nBig Data in Bioinformatics\nResearch Labs\nComputational Biophysics\nComputational Mass Spectrometry\nGenome-Wide Association Analysis\nHigh-Throughput Studies\nMetagenomics\nPlant Genomics\nStructural Bioinformatics\nSystems Biology\n\n\nBiG Calendar\nAcademics\n\nComputer Science Bioinformatics Concentration, B.A.\nComputer Science Bioinformatics Concentration, B.S.\nUndergraduate Minor in Bioinformatics and Genomics Program Requirements\nEarly-Entry Bioinformatics M.S. and Graduate Certificate\nBioinformatics Technology Certificate\nMaster\u2019s in Bioinformatics\n\nAdmissions\nProgram Requirements\nM.S. in Bioinformatics Forms\n\n\nBioinformatics and Computational Biology (BCB) Ph.D. Program\n\nBCB Ph.D. Admissions\nBCB Ph.D. Program Requirements\nPh.D. Forms\nMolecular Biophysics Concentration\n\n\nCourses\n\nUndergraduate Courses in Bioinformatics\nGraduate Courses\n\n\nFrequently Asked Questions\nUndergraduate Research Initiative",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-bioinformatics-and-genomics\/big-faculty\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-bioinformatics-and-genomics\/big-staff\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/dissertation-archive\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/facilities\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/facilities\/core-laboratories\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/facilities\/research-computing\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/directions\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/community-partners\/",
+            "https:\/\/cci.charlotte.edu\/big-news\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/bioinformatics-news\/recognitions\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/seminars\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/big-data-bioinformatics\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/research-labs\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/computational-biophysics\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/computational-mass-spectrometry\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/genome-wide-association-analysis\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/high-throughput-studies\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/metagenomics\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/plant-genomics\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/structural-bioinformatics\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/systems-biology\/",
+            "https:\/\/cci.charlotte.edu\/big-calendar\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/computer-science-bioinformatics-concentration-ba\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/computer-science-bioinformatics-concentration-bs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/undergraduate-minor-bioinformatics-and-genomics-program-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/early-entry-bioinformatics-ms-and-graduate-certificates\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-graduate-certificates\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-ms-program\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-ms-program\/admissions\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-ms-program\/program-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-ms-program\/ms-bioinformatics-forms\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bcb-phd-program\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bcb-phd-program\/bcb-phd-admissions\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bcb-phd-program\/bcb-phd-program-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bcb-phd-program\/phd-forms\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-bioinformatics-and-genomics\/academics-2\/molecular-biophysics-concentration\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/courses\/undergraduate-courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/courses\/graduate-courses\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-bioinformatics-and-genomics\/academics-2\/courses\/frequently-asked-questions\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/undergraduate-research-initiative\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Dissertation Archive\nFacilities\n\nCore Laboratories\nResearch Computing\n\n\nDirections\nCommunity Partners",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/dissertation-archive\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/facilities\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/facilities\/core-laboratories\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/facilities\/research-computing\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/directions\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/community-partners\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Core Laboratories\nResearch Computing",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/facilities\/core-laboratories\/",
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/about-big\/facilities\/research-computing\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Recognitions",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/departments\/bioinformatics\/bioinformatics-news\/recognitions\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Big Data in Bioinformatics\nResearch Labs\nComputational Biophysics\nComputational Mass Spectrometry\nGenome-Wide Association Analysis\nHigh-Throughput Studies\nMetagenomics\nPlant Genomics\nStructural Bioinformatics\nSystems Biology",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/big-data-bioinformatics\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/research-labs\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/computational-biophysics\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/computational-mass-spectrometry\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/genome-wide-association-analysis\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/high-throughput-studies\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/metagenomics\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/plant-genomics\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/structural-bioinformatics\/",
+            "https:\/\/cci.charlotte.edu\/research\/bioinformatics-research\/systems-biology\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Computer Science Bioinformatics Concentration, B.A.\nComputer Science Bioinformatics Concentration, B.S.\nUndergraduate Minor in Bioinformatics and Genomics Program Requirements\nEarly-Entry Bioinformatics M.S. and Graduate Certificate\nBioinformatics Technology Certificate\nMaster\u2019s in Bioinformatics\n\nAdmissions\nProgram Requirements\nM.S. in Bioinformatics Forms\n\n\nBioinformatics and Computational Biology (BCB) Ph.D. Program\n\nBCB Ph.D. Admissions\nBCB Ph.D. Program Requirements\nPh.D. Forms\nMolecular Biophysics Concentration\n\n\nCourses\n\nUndergraduate Courses in Bioinformatics\nGraduate Courses\n\n\nFrequently Asked Questions\nUndergraduate Research Initiative",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/computer-science-bioinformatics-concentration-ba\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/computer-science-bioinformatics-concentration-bs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/undergraduate-minor-bioinformatics-and-genomics-program-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/early-entry-bioinformatics-ms-and-graduate-certificates\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-graduate-certificates\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-ms-program\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-ms-program\/admissions\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-ms-program\/program-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-ms-program\/ms-bioinformatics-forms\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bcb-phd-program\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bcb-phd-program\/bcb-phd-admissions\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bcb-phd-program\/bcb-phd-program-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bcb-phd-program\/phd-forms\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-bioinformatics-and-genomics\/academics-2\/molecular-biophysics-concentration\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/courses\/undergraduate-courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/courses\/graduate-courses\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-bioinformatics-and-genomics\/academics-2\/courses\/frequently-asked-questions\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/undergraduate-research-initiative\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Admissions\nProgram Requirements\nM.S. in Bioinformatics Forms",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-ms-program\/admissions\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-ms-program\/program-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bioinformatics-ms-program\/ms-bioinformatics-forms\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"BCB Ph.D. Admissions\nBCB Ph.D. Program Requirements\nPh.D. Forms\nMolecular Biophysics Concentration",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bcb-phd-program\/bcb-phd-admissions\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bcb-phd-program\/bcb-phd-program-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/bcb-phd-program\/phd-forms\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-bioinformatics-and-genomics\/academics-2\/molecular-biophysics-concentration\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Undergraduate Courses in Bioinformatics\nGraduate Courses",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/courses\/undergraduate-courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/bioinformatics\/courses\/graduate-courses\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"About Computer Science\n\nAdministration\nDirections\nContact Information\nCS Faculty\nCS Staff\n\n\nCS Academics\n\nAcademic Programs\nUndergraduate Programs\n\nComputer Science: B.S.\/B.A.\nCourses\n\n\nCS Certificate Programs\n\nGraduate Certificate in Applied A.I.\nUNDERGRADUATE CERTIFICATE IN GAME DESIGN\n\n\nEarly Entry (4 + 1) Program\n\nDeadlines for Early Entry (4 + 1) Program\n\n\nMaster\u2019s Programs\n\nM.S. Requirements\nM.S. Admissions\nM.S. Funding and Assistantships\nEvening Computer Science MS Degree Program\nM.S. Courses\nM.S. Course Rotation\n\n\nPh.D. in Computing and Information Systems, CS Track\n\nPh.D. Admissions\nDegree Requirements\nCourses\n\n\nOther Programs\nCS Student Forms and Resources\n\n\nCS Research\nCS News\nCS Department Intranet",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science\/about-us\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science\/about-us\/administration\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science\/about-us\/directions\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/about-computer-science\/contact-information\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/about-computer-science\/cs-faculty\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/about-computer-science\/cs-staff\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/",
+            "https:\/\/cci.charlotte.edu\/academics\/academic-programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/undergraduate-programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/undergraduate-programs\/courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/undergraduate-programs\/courses-0\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science-cs\/cs-academics\/cs-certificate-programs\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/academics\/cs-certificate-programs\/graduate-certificate-in-applied-a-i\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/academics\/cs-certificate-programs\/undergraduate-certificate-in-game-design\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/5-year-babs-ms-degree-program\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/early-entry-4-1-program\/deadlines\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/ms-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/ms-admissions\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science-cs\/cs-academics\/masters-programs\/ms-funding\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/evening-computer-science-ms-degree-program\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/ms-courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/ms-course-rotation\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/phd-program-cs-track\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/academics\/ph-d-in-computing-and-information-systems-cs-track\/admissions-2\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science-cs\/cs-academics\/phd-program-cs-track\/degree-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/phd-program-cs-track\/courses\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/academics\/other-programs\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science-cs\/cs-academics\/cs-student-forms-and-links\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science-cs\/cs-research\/",
+            "https:\/\/cci.charlotte.edu\/cs-news\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/cs-department-intranet\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Administration\nDirections\nContact Information\nCS Faculty\nCS Staff",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science\/about-us\/administration\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science\/about-us\/directions\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/about-computer-science\/contact-information\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/about-computer-science\/cs-faculty\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/about-computer-science\/cs-staff\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Academic Programs\nUndergraduate Programs\n\nComputer Science: B.S.\/B.A.\nCourses\n\n\nCS Certificate Programs\n\nGraduate Certificate in Applied A.I.\nUNDERGRADUATE CERTIFICATE IN GAME DESIGN\n\n\nEarly Entry (4 + 1) Program\n\nDeadlines for Early Entry (4 + 1) Program\n\n\nMaster\u2019s Programs\n\nM.S. Requirements\nM.S. Admissions\nM.S. Funding and Assistantships\nEvening Computer Science MS Degree Program\nM.S. Courses\nM.S. Course Rotation\n\n\nPh.D. in Computing and Information Systems, CS Track\n\nPh.D. Admissions\nDegree Requirements\nCourses\n\n\nOther Programs\nCS Student Forms and Resources",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/academics\/academic-programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/undergraduate-programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/undergraduate-programs\/courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/undergraduate-programs\/courses-0\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science-cs\/cs-academics\/cs-certificate-programs\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/academics\/cs-certificate-programs\/graduate-certificate-in-applied-a-i\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/academics\/cs-certificate-programs\/undergraduate-certificate-in-game-design\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/5-year-babs-ms-degree-program\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/early-entry-4-1-program\/deadlines\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/ms-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/ms-admissions\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science-cs\/cs-academics\/masters-programs\/ms-funding\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/evening-computer-science-ms-degree-program\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/ms-courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/ms-course-rotation\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/phd-program-cs-track\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/academics\/ph-d-in-computing-and-information-systems-cs-track\/admissions-2\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science-cs\/cs-academics\/phd-program-cs-track\/degree-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/phd-program-cs-track\/courses\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/academics\/other-programs\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science-cs\/cs-academics\/cs-student-forms-and-links\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Computer Science: B.S.\/B.A.\nCourses",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/undergraduate-programs\/courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/undergraduate-programs\/courses-0\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Graduate Certificate in Applied A.I.\nUNDERGRADUATE CERTIFICATE IN GAME DESIGN",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/academics\/cs-certificate-programs\/graduate-certificate-in-applied-a-i\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/academics\/cs-certificate-programs\/undergraduate-certificate-in-game-design\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Deadlines for Early Entry (4 + 1) Program",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/early-entry-4-1-program\/deadlines\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"M.S. Requirements\nM.S. Admissions\nM.S. Funding and Assistantships\nEvening Computer Science MS Degree Program\nM.S. Courses\nM.S. Course Rotation",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/ms-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/ms-admissions\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science-cs\/cs-academics\/masters-programs\/ms-funding\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/evening-computer-science-ms-degree-program\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/ms-courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/masters-program\/ms-course-rotation\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Ph.D. Admissions\nDegree Requirements\nCourses",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-computer-science\/academics\/ph-d-in-computing-and-information-systems-cs-track\/admissions-2\/",
+            "https:\/\/cci.charlotte.edu\/departments\/computer-science-cs\/cs-academics\/phd-program-cs-track\/degree-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/computer-science\/phd-program-cs-track\/courses\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"About Software & Information Systems\n\nAdministration\nDirections\nSIS Faculty\nSIS Staff\n\n\nSIS Academics\n\nUndergraduate Programs\n\nCourse Listings\nPrograms\nSoftware and Information Systems: B.S.\/B.A.\n\n\nSIS Master\u2019s Programs\n\nAbout SIS Master\u2019s Degrees\nAdmissions\nDegree Requirements\nEarly Entry (4+1) Program\nLabs & Research\nFrequently Asked Questions\nSIS Contact\n\n\nSIS Graduate Certificates\n\nSoftware Development Certificate\nFrequently Asked Questions \u2013 SIS Graduate Certificates\n\n\nFundamentals of Programming Courses\nPh.D. in Computing and Information Systems, SIS Track\n\nPh.D. Computing and Information Systems: Software and Information Systems Track\nPh.D. Courses\nPh.D. Admissions\nPh.D. Resources\n\n\nCybersecurity Program\nScholarships\n\nCyberCorps: Scholarship for Service (SFS)\nGraduate Assistant Support Plan (GASP)\nThe STARS Computing Scholars\n\n\n\n\nSIS News\nSIS Research\n\nCenters and Institutes\nComplex Adaptive Systems\nCyber Defense and Network Assurability Research Center",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/about-software-information-systems\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/about-sis\/administration\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/about-sis\/directions\/",
+            "https:\/\/cci.charlotte.edu\/sis-faculty\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/about-software-information-systems\/sis-staff\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/undergraduate-programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/undergraduate-programs\/course-listings\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/undergraduate-programs\/programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/undergraduate-programs\/software-and-information-systems\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/academics-3\/sis-masters-programs\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/sis-academics\/masters-programs\/about-sis-masters\/",
+            "https:\/\/cci.charlotte.edu\/sis-grad-admissions\/",
+            "https:\/\/cci.charlotte.edu\/sis-grad-requirements\/",
+            "https:\/\/cci.charlotte.edu\/sis-early-entry\/",
+            "https:\/\/cci.charlotte.edu\/sis-labs-and-research\/",
+            "https:\/\/cci.charlotte.edu\/sis-grad-faq\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/academics-3\/sis-masters-programs\/sis-contact\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/academics-3\/sis-graduate-certificates\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/sis-academics\/graduate-certificates\/software\/",
+            "https:\/\/cci.charlotte.edu\/sis-certificates-faq\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/sis-academics\/graduate-certificates\/fundamentals\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/degree-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/phd-courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/phd-admissions\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/phd-resources\/",
+            "https:\/\/cci.charlotte.edu\/cybersecurity\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/scholarships\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/scholarships\/cybercorps-scholarship-service-sfs\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/scholarships\/graduate-assistant-support-plan-gasp\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/scholarships\/stars-computing-scholars\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/sis-news\/",
+            "https:\/\/cci.charlotte.edu\/research\/sis-research\/",
+            "https:\/\/cci.charlotte.edu\/research\/sis-research\/centers-and-institutes\/",
+            "https:\/\/cci.charlotte.edu\/research\/sis-research\/complex-adaptive-systems\/",
+            "https:\/\/cci.charlotte.edu\/research\/sis-research\/cyber-defense-and-network-assurability-research-cente\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Administration\nDirections\nSIS Faculty\nSIS Staff",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/about-sis\/administration\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/about-sis\/directions\/",
+            "https:\/\/cci.charlotte.edu\/sis-faculty\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/about-software-information-systems\/sis-staff\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Undergraduate Programs\n\nCourse Listings\nPrograms\nSoftware and Information Systems: B.S.\/B.A.\n\n\nSIS Master\u2019s Programs\n\nAbout SIS Master\u2019s Degrees\nAdmissions\nDegree Requirements\nEarly Entry (4+1) Program\nLabs & Research\nFrequently Asked Questions\nSIS Contact\n\n\nSIS Graduate Certificates\n\nSoftware Development Certificate\nFrequently Asked Questions \u2013 SIS Graduate Certificates\n\n\nFundamentals of Programming Courses\nPh.D. in Computing and Information Systems, SIS Track\n\nPh.D. Computing and Information Systems: Software and Information Systems Track\nPh.D. Courses\nPh.D. Admissions\nPh.D. Resources\n\n\nCybersecurity Program\nScholarships\n\nCyberCorps: Scholarship for Service (SFS)\nGraduate Assistant Support Plan (GASP)\nThe STARS Computing Scholars",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/undergraduate-programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/undergraduate-programs\/course-listings\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/undergraduate-programs\/programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/undergraduate-programs\/software-and-information-systems\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/academics-3\/sis-masters-programs\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/sis-academics\/masters-programs\/about-sis-masters\/",
+            "https:\/\/cci.charlotte.edu\/sis-grad-admissions\/",
+            "https:\/\/cci.charlotte.edu\/sis-grad-requirements\/",
+            "https:\/\/cci.charlotte.edu\/sis-early-entry\/",
+            "https:\/\/cci.charlotte.edu\/sis-labs-and-research\/",
+            "https:\/\/cci.charlotte.edu\/sis-grad-faq\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/academics-3\/sis-masters-programs\/sis-contact\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/academics-3\/sis-graduate-certificates\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/sis-academics\/graduate-certificates\/software\/",
+            "https:\/\/cci.charlotte.edu\/sis-certificates-faq\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/sis-academics\/graduate-certificates\/fundamentals\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/degree-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/phd-courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/phd-admissions\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/phd-resources\/",
+            "https:\/\/cci.charlotte.edu\/cybersecurity\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/scholarships\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/scholarships\/cybercorps-scholarship-service-sfs\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/scholarships\/graduate-assistant-support-plan-gasp\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/scholarships\/stars-computing-scholars\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Course Listings\nPrograms\nSoftware and Information Systems: B.S.\/B.A.",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/undergraduate-programs\/course-listings\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/undergraduate-programs\/programs\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/undergraduate-programs\/software-and-information-systems\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"About SIS Master\u2019s Degrees\nAdmissions\nDegree Requirements\nEarly Entry (4+1) Program\nLabs & Research\nFrequently Asked Questions\nSIS Contact",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/sis-academics\/masters-programs\/about-sis-masters\/",
+            "https:\/\/cci.charlotte.edu\/sis-grad-admissions\/",
+            "https:\/\/cci.charlotte.edu\/sis-grad-requirements\/",
+            "https:\/\/cci.charlotte.edu\/sis-early-entry\/",
+            "https:\/\/cci.charlotte.edu\/sis-labs-and-research\/",
+            "https:\/\/cci.charlotte.edu\/sis-grad-faq\/",
+            "https:\/\/cci.charlotte.edu\/departments\/department-of-software-information-systems\/academics-3\/sis-masters-programs\/sis-contact\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Software Development Certificate\nFrequently Asked Questions \u2013 SIS Graduate Certificates",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/sis-academics\/graduate-certificates\/software\/",
+            "https:\/\/cci.charlotte.edu\/sis-certificates-faq\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Ph.D. Computing and Information Systems: Software and Information Systems Track\nPh.D. Courses\nPh.D. Admissions\nPh.D. Resources",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/degree-requirements\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/phd-courses\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/phd-admissions\/",
+            "https:\/\/cci.charlotte.edu\/academics\/software-and-information-systems\/phd-sis-track\/phd-resources\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"CyberCorps: Scholarship for Service (SFS)\nGraduate Assistant Support Plan (GASP)\nThe STARS Computing Scholars",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/scholarships\/cybercorps-scholarship-service-sfs\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/scholarships\/graduate-assistant-support-plan-gasp\/",
+            "https:\/\/cci.charlotte.edu\/departments\/software-and-information-systems-sis\/scholarships\/stars-computing-scholars\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Centers and Institutes\nComplex Adaptive Systems\nCyber Defense and Network Assurability Research Center",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/research\/sis-research\/centers-and-institutes\/",
+            "https:\/\/cci.charlotte.edu\/research\/sis-research\/complex-adaptive-systems\/",
+            "https:\/\/cci.charlotte.edu\/research\/sis-research\/cyber-defense-and-network-assurability-research-cente\/"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"NCRC Directory",
+        "links":[
+            "https:\/\/cci.charlotte.edu\/nc-research-campus-ncrc\/ncrc-directory\/"
+        ]
+    },
+    {
+        "tag":"h2",
+        "content":"Alumni Scholarship Fund",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"The Alumni Gives Scholarship allows students to pursue their dreams and contribute to the technology community.\u00a0 This needs-based scholarship empowers students to overcome financial hurdles while pursuing their education goals and gives preference to underrepresented populations within the CCI student body.",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"To make a gift, click the link below and search for CCI Alumni Gives Back Scholarship in the Designations menu.",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"h1",
+        "content":"Degree Requirements",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"h2",
+        "content":"Requirements for MS Cybersecurity and MS Information Technology",
+        "links":[
+            "#MS%20Cybersecurity",
+            "#MS%20Information%20Technology"
+        ]
+    },
+    {
+        "tag":"h3",
+        "content":"MS Cybersecurity",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"MS Cybersecurity requires the successful completion of 30 credit hours of graduate course work (see the MS Cybersecurity Catalog for courses and course descriptions).",
+        "links":[
+            "https:\/\/catalog.charlotte.edu\/preview_program.php?catoid=37&poid=10522&returnto=4458"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Core (12 credit hours)\nCybersecurity Electives (15 credit hours)\nFree Elective (3 credit hours)\nCulminating Experience (0-6 credit hours)",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"h4",
+        "content":"Core Component",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"Students are required to complete the following core courses:",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"ol",
+        "content":"ITIS 5250 Computer Forensics\nITS 6167 Network Security\nITIS 6200 Information Security and Privacy\nITIS 6240 Applied Cryptography",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"h4",
+        "content":"Cybersecurity Culminating Experience",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"All students will complete a culminating experience as a capstone demonstrating mastery in Cybersecurity. This requirement is satisfied by completing one of the following capstones:",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Cybersecurity Project Report: written report on knowledge relating one or more courses to a IT project (0 credit hours)\nCybersecurity Internship Project (3 credits) Students who choose to complete the Internship Project for their culminating experience will use ITIS 6198 Internship Project course (3 credit hours) to help fulfill the cybersecurity elective requirements\nCybersecurity Master\u2019s Thesis (total 6 credit hours: 3 credits each semester across 2 semesters)",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"h4",
+        "content":"Free Elective Component",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"Students may complete any additional course offered by the College of Computing and Informatics (BINF, HCIP, ITCS, ITIS) for their remaining elective requirement.",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"h3",
+        "content":"MS Information Technology",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"MS Information Technology requires successful completion of 30 credit hours of graduate course work (see the MSIT Catalog for courses and course descriptions).",
+        "links":[
+            "https:\/\/catalog.charlotte.edu\/preview_program.php?catoid=30&poid=8031"
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Core (15 credit hours)\nConcentration (9 credit hours)\nElectives (6 credit hours)\nIT Culminating Experience",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"h4",
+        "content":"Core Component",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"Students are required to complete the following core requirements: 1. Advanced Programming: Select 1 from the following 2 courses",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"ITIS 5166 Network-Based Application Development\nITIS 5180 Mobile Application Development",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"2. Databases: Select 1 from the following 2 courses",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"ITIS 6120 Applied Databases\nIT IS 6162 Knowledge Discovery from Databases",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"3. Software Systems Design: Select 1 from the following 3 courses:",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"ITIS 6112 Software System Design and Implementation\nITIS 6342 Information Technology Project Management\nITIS 6177 System Integration",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"4. ITIS 6200 Principles of Information Security and Privacy 5. ITIS 6300 Principles of Human Computer Interaction",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"h4",
+        "content":"Concentration Component",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"MSIT students are required to select and complete one of the following concentration options. Students pursuing a MS thesis for their culminating experience will use 6 credit hours towards their concentration in place of coursework. Subject to the approval of the Graduate Program Director, a course from outside of the approved list may be taken as a substitute course for the concentration. MSIT program offers the following concentrations: 1. Advanced Data and Knowledge Discovery 2. Emerging Technologies 3. Human-Computer Interaction 4. Information Security and Privacy 5. Information Technology Management 6. Software Systems Design and Engineering 7. Web Development",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"h4",
+        "content":"Elective Component",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"Students fulfill the remaining requirements for a MSIT degree by completing two approved elective courses in the area of information technology. Students who chose to complete the IT Internship Project for their culminating experience will enroll in ITIS 6198 Internship Project course (3 credit hours) to help fulfill the elective requirements.",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"h4",
+        "content":"MSIT Culminating Experience",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"p",
+        "content":"All students will complete a culminating experience as a capstone demonstrating mastery in IT. This requirement is satisfied by completing one of the following capstones:",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"IT Project Report: written report on knowledge relating one or more courses to a IT project (0 credit hours)\nIT Internship Project (3 credits)\nIT Master\u2019s Thesis (total 6 credit hours: 3 credits each semester across 2 semesters)",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"\u00a9 2024 UNC Charlotte. All rights reserved.\nContact Us\nTerms of Use\nUniversity Policies",
+        "links":[
+            "https:\/\/www.charlotte.edu",
+            "https:\/\/www.charlotte.edu\/contact",
+            "https:\/\/legal.charlotte.edu\/termsofuse",
+            "https:\/\/legal.charlotte.edu\/policies"
+        ]
+    },
+    {
+        "tag":"h2",
+        "content":"Campus Links",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Alerts\n\n\nJobs\n\n\nMake a Gift\n\n\nMaps \/ Directions\n\n\n\n\n\nAccessibility",
+        "links":[
+            "https:\/\/emergency.charlotte.edu\/",
+            "https:\/\/jobs.charlotte.edu\/",
+            "https:\/\/giving.charlotte.edu\/",
+            "https:\/\/maps.charlotte.edu\/",
+            "https:\/\/accessibility.charlotte.edu\/"
+        ]
+    },
+    {
+        "tag":"h2",
+        "content":"Resources",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Alumni & Friends\n\n\nFaculty & Staff\n\n\nProspective Students\n\n\nCommunity\n\n\nCurrent Students\n\n\nParents and Family",
+        "links":[
+            "https:\/\/www.charlotte.edu\/gateway\/alumni-friends",
+            "https:\/\/www.charlotte.edu\/gateway\/faculty-staff",
+            "https:\/\/www.charlotte.edu\/gateway\/prospective-students",
+            "https:\/\/www.charlotte.edu\/gateway\/community",
+            "https:\/\/www.charlotte.edu\/gateway\/current-students",
+            "https:\/\/www.charlotte.edu\/gateway\/parents-family"
+        ]
+    },
+    {
+        "tag":"h2",
+        "content":"Stay In Touch",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"Facebook\n\n\n\n\n\nInstagram\n\n\n\n\n\nFlickr\n\n\n\n\n\nLinkedIn\n\n\n\n\n\nX (Twitter)\n\n\n\n\n\nYouTube",
+        "links":[
+            "https:\/\/www.facebook.com\/UNCCharlotte",
+            "https:\/\/www.instagram.com\/unccharlotte\/",
+            "https:\/\/www.flickr.com\/photos\/stakeyourclaim\/sets\/",
+            "https:\/\/www.linkedin.com\/school\/166586\/",
+            "https:\/\/twitter.com\/UNCCharlotte",
+            "https:\/\/www.youtube.com\/user\/unccharlottevideo"
+        ]
+    },
+    {
+        "tag":"h2",
+        "content":"The University of North Carolina at Charlotte",
+        "links":[
+
+        ]
+    },
+    {
+        "tag":"ul",
+        "content":"\u00a9 2024 UNC Charlotte. All rights reserved.\nContact Us\nTerms of Use\nUniversity Policies",
+        "links":[
+            "https:\/\/www.charlotte.edu",
+            "https:\/\/www.charlotte.edu\/contact",
+            "https:\/\/legal.charlotte.edu\/termsofuse",
+            "https:\/\/legal.charlotte.edu\/policies"
+        ]
+    }
+]
