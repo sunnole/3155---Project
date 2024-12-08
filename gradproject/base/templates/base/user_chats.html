@@ -1,0 +1,15 @@
+{% extends 'main.html' %}
+
+{% block content %}
+    <h1>Your Chats</h1>
+
+    {% for conversation in conversations %}
+        <h2>Chat with {{ conversation.user.username }}</h2>
+        <div>
+            {% for message in conversation.messages %}
+                <p><strong>{{ message.sender.username }}:</strong> {{ message.body }} <small>({{ message.created_at }})</small></p>
+            {% endfor %}
+        </div>
+        <hr>
+    {% endfor %}
+{% endblock %}

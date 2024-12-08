@@ -31,13 +31,25 @@ class Message(models.Model):
     parent_message = models.ForeignKey('self', on_delete=models.SET_NULL, null=True, blank=True, related_name='replies')
     updated = models.DateTimeField(auto_now=True)
     created = models.DateTimeField(auto_now_add=True)
-    
+
     class Meta:
         ordering = ['-updated', '-created']
     
     def __str__(self):
         return self.body[0:50]
-    
+
+class Chat(models.Model):
+    sender = models.ForeignKey(User, related_name='sent_messages', on_delete=models.CASCADE)
+    recipient = models.ForeignKey(User, related_name='received_messages', on_delete=models.CASCADE)
+    body = models.TextField()
+    created = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return f"Message from {self.sender.username} to {self.recipient.username} on {self.created}"
+
+    class Meta:
+        ordering = ['-created']
+
 class Program(models.Model):
     name = models.CharField(max_length=200)
     body = models.TextField()

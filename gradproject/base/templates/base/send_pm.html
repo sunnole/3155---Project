@@ -1,0 +1,11 @@
+{% extends 'main.html' %}
+
+{% block content %}
+    <h4>Send Message to {{ recipient.username }}</h4>
+
+    <form method="POST">
+        {% csrf_token %}
+        <textarea name="body" placeholder="Your message here..." required></textarea>
+        <button type="submit">Send</button>
+    </form>
+{% endblock %}

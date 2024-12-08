@@ -14,4 +14,7 @@ urlpatterns = [
     path('create-forum/', views.createForum, name="create-forum"),
 
     path('scrape-page/', views.scrapePage, name="scrape-page"),
+
+    path('chat/send/<int:recipient_id>/', views.send_pm, name="send-pm"),
+    path('chat/', views.user_chats, name="user-chats"),
     ]
