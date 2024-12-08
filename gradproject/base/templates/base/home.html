@@ -1,0 +1,32 @@
+{% extends 'main.html' %}
+
+{% block content %}
+
+<style>
+    .home-container {
+        display: grid;
+        grid-template-columns: 1fr 3fr 1fr;
+    }
+</style>
+
+
+<div class="home-container">
+
+    <div>
+        {% include 'base/topic_comp.html' %}
+    </div>
+    <div>
+        <h1>ConGraduate Platform</h1>
+        <p>Lorem ipsum odor amet, consectetuer adipiscing elit. Torquent sagittis vel lacinia purus dictumst metus amet parturient. Erat odio congue in litora pulvinar vehicula tempus quis egestas! Penatibus vivamus cursus, suspendisse ornare nec elit vivamus. Quisque at mus fringilla mauris accumsan. Pulvinar elementum litora condimentum ut tincidunt mattis donec per.</p>
+        <p>Lorem ipsum odor amet, consectetuer adipiscing elit. Iaculis eu nam pulvinar, viverra habitasse donec. Phasellus aenean suscipit luctus non leo. Lacus morbi porttitor consectetur urna donec rhoncus maecenas. Interdum proin in dignissim turpis pellentesque lacus natoque. Faucibus non eros ac dictum sociosqu finibus. Convallis aliquam suscipit ridiculus potenti quis interdum.
+
+            Justo egestas ut felis orci torquent lacus id. Imperdiet tortor donec condimentum ultrices vitae. Iaculis quisque facilisis ac nisl enim tempor habitasse. Primis efficitur habitasse nibh ultricies libero per dictum. Orci magna nostra posuere ullamcorper facilisis; semper massa senectus. Sit himenaeos nec phasellus sed per euismod tempor. Neque non ultrices porta hendrerit malesuada mus nostra.</p>
+        <p>Lorem ipsum odor amet, consectetuer adipiscing elit. Sapien imperdiet vivamus ut mollis velit tempor ad per.</p>
+        <p>Lorem ipsum odor amet, consectetuer adipiscing elit. Suscipit vehicula et faucibus; risus aptent potenti sociosqu mollis. Nullam consectetur a fusce curae ultrices per nisl mollis fringilla. Blandit litora eleifend aliquam potenti inceptos malesuada vel eros consectetur. Curae ut aptent ultrices hendrerit potenti commodo. Imperdiet scelerisque et torquent, fusce porta auctor diam mi. Nullam maecenas iaculis erat aptent curae tempus aliquet suspendisse massa.</p>
+    </div>
+    <div>
+        {% include 'base/activity_comp.html'%}
+    </div>
+</div>
+
+{% endblock content %}

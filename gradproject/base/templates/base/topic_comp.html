@@ -10,3 +10,13 @@
         <a href="{% url 'home' %}?q={{topic.name}}">{{topic.name}}</a>
     </div>
 {% endfor %}
+{% for program in programs %}
+    <div>
+        <a href="{% url 'program' program.id %}">{{program.name}}</a>
+    </div>
+{% endfor %}
+{% for forum in forums %}
+    <div>
+        <a href="{% url 'forum' forum.id %}">{{forum.name}}</a>
+    </div>
+{% endfor %}

@@ -7,14 +7,20 @@
 
 
 <form class='searchBar' method="GET" action="{% url 'home' %}">
-    <input type='text' name='q' placeholder='Search for a program or forum...' />
+    <input type='text' name='q' placeholder='Search for a program, topic, or forum...' />
 </form>
 <div class='userNavIndicator'>
     {% if request.user.is_authenticated %}
-    <p>Hello {{request.user}}</p>
-    <a href="{% url 'logout' %}">Logout</a>
+        <p>Hello {{request.user}}</p>
+        <a href="{% url 'logout' %}">Logout</a>
+        <a href="{% url 'user-profile' user.id %}"> Profile</a>
+
+        {% if request.user.is_superuser or request.user.is_staff %}
+            <a href="{% url 'scrape-page' %}">Admin Create Program</a>
+        {% endif %}
+
     {% else %}
-    <a href="{% url 'login' %}">Login</a>
+        <a href="{% url 'login' %}">Login</a>
     {% endif %}
 </div>
 <hr>

@@ -1,0 +1,10 @@
+.message-container {
+    margin-left: 0;  /* Reset for top-level messages */
+    border-left: 2px solid #000000;
+    padding-left: 10px;
+    margin-bottom: 15px;
+}
+
+.replies .message-container {
+    margin-left: 20px;  /* Indent nested replies */
+}

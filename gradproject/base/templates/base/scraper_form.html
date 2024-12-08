@@ -1,0 +1,27 @@
+{% extends 'main.html' %}
+
+{% block content %}
+
+<form method="POST" action=""> <!-- May have issue with this line for the action! -->
+    {% csrf_token %}
+    <label for="url">Graduate Program URL:</label>
+    <input 
+        type="url" 
+        id="url" 
+        name="url" 
+        required 
+        placeholder="Enter a valid UNCC graduate program URL"
+    >
+    <button type="submit">Scrape and Save Program</button>
+</form>
+
+{% if message %}
+    <div class="message">
+        <p>{{ message }}</p>
+        {% if program %}
+            <p>View program page: <a href="{% url 'program' program.id %}">{{ program.name }}</a></p>
+        {% endif %}
+    </div>
+{% endif %}
+
+{% endblock content %}
