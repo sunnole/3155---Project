@@ -1,0 +1,70 @@
+{% extends 'main.html' %}
+
+{% block content %}
+
+<style>
+    .forum-container{
+        display: grid;
+        grid-template-columns: 3fr 1fr;
+    }
+</style>
+
+
+<div class='forum-container'>
+
+    <div>
+        <h1>{{forum.name}}</h1>
+
+        <p>{{forum.description}}</p>
+
+        <div class='comment-wrapper'>
+            <h3>Conversation</h3>
+            <hr>
+
+            {% for message in forum_messages %}
+                {% include 'base/nested_message.html' with message=message %}
+                <div>
+                    <small>@{{message.user}} {{message.created|timesince}} ago</small>
+                    <p>{{message.body}}</p>
+        
+                    {% if message.replies.all %}
+                        <div class="comment">
+                            
+                            {% for reply in message.replies.all %}
+                                <div>
+                                    <small>@{{reply.user}} {{reply.created|timesince}} ago</small>
+                                    <p>{{reply.body}}</p>
+                                </div>
+                            {% endfor %}
+                        </div>
+                    {% endif %}
+        
+                    {% if request.user.is_authenticated %}
+                        <form method='POST' action=''>
+                            {% csrf_token %}
+                            <input type='text' name='body' placeholder='Write your reply here...' />
+                            <input type='hidden' name='parent_message_id' value='{{message.id}}' />
+                            <button type="submit">Reply</button>
+                        </form>
+                    {% endif %}
+                    <hr>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+    <div>
+        <h3>Participants</h3>
+        <hr>
+
+        {% for user in participants %}
+            <div>
+                <a href="{% url 'user-profile' user.id %}">@{{user.username}}</a>
+            </div>
+        {% endfor %}
+    </div>
+
+</div>
+
+{% endblock content %}
